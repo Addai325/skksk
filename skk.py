@@ -1,1 +1,1 @@
-print('Merged')
+print('merged')

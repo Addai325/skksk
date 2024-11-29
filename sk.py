@@ -1,1 +1,1 @@
-print('Fourth commit merege challenge resolved')
+print('merged conflicts')

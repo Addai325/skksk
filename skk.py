@@ -1,4 +1,1 @@
-print('This is second')
-print('This is second plus')
-print('Second branch is coming')
-print('This is fourth feature')
+print('This is another merged conflit for feature 3')
